@@ -35,4 +35,3 @@ User-defined positions (Agent, Wumpus, Gold, Pits).
 Logical inference using a Knowledge Base.
 Removal of contradictory KB facts. 
 Graphical visualization using Matplotlib. 
-Clean and modular Python code. 
